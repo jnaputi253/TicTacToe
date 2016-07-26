@@ -1,0 +1,13 @@
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
